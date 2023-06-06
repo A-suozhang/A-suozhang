@@ -1,21 +1,28 @@
-## Hi There 👋 A-suozhang Here
 
-My name is Tianchen Zhao and I am a grad student at BUAA.
-Currently I'm a visiting student at [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn/), Also as an intern at [Novauto](https://www.novauto.com.cn/) Inc.
+## Hello There 👋 A-suozhang Here
+<a href = "mailto: suozhang1998@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> 
+<a href = "https://a-suozhang.xyz"><img src="https://img.shields.io/static/v1?label=Lab&message=NICS-EFC&color=blueviolet"></a> 
+<a href = "https://a-suozhang.xyz"><img src="https://img.shields.io/badge/-Blog-green?style=plastic&logo=blog" target="_blank"></a> 
 
-## ⛏I'm Currently Working On
 
-* Neural Architecture Search
+I am Tianchen Zhao, currently a Phd. student at [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn/), EE Dept., Tsinghua University. My main research focus is **Efficient Deep Learning** algorithms, and software-hardware co-design. My recent research interest is Effiicent AIGC (diffusion-based generation methods).
 
-I'm currently working on neural architecture search for more efficient NN model and help developing an open-source modularized NAS framework [aw-nas](https://github.com/walkerning/aw_nas).
+📤 Feel free to contact me through [suozhang1998@gmail.com]() for discussion and cooperaion, and our lab is open for visting student, please ref [here](http://nicsefc.ee.tsinghua.edu.cn/research.html?groundId=1)
 
-* Efficient Deep Learning 
+I've done research about these compression techniques:
+- *Network Pruning*: (structural pruning for CNN)
+- *Quantization*: (binary network, low-bit training)
+- *Neural Architecture Search*: (participate in developing [aw_nas](https://github.com/walkerning/aw_nas) a modularized NAS framework)
+- *Adaptive Inference*: (adaptive inference for 3D voxel-based CNN)
 
-Aside from NAS, I also worked on other network slimming methods such as quantization / pruning. 
+and these applications:
+- *Autonomous Driving* (3D Transformer & efficient lidar-based perception, intern at [Novauto](https://www.novauto.com.cn/) Inc.)
+- *AIGC* (efficient Diffusion methods)
 
-## 📗 My Blog
 
-* I build my personal blog with github pages at [a-suozhang.xyz](a-suozhang.xyz), here contains some random notes I take everyday, and also some of my amateur photographs.
+![tianchen's GitHub Stats, Rank: B+ (github-readme-stats.vercel.app)](https://github-readme-stats.vercel.app/api?username=A-suozhang&theme=vue&show_icons=true)
+
+![github-readme-stats.vercel.app/api/top-langs/?username=A-suozhang&layout=compact&theme=vue](https://github-readme-stats.vercel.app/api/top-langs/?username=A-suozhang&layout=compact&theme=vue)
 
 
 <!--
