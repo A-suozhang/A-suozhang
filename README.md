@@ -1,7 +1,7 @@
 
 ## Hello There 👋 A-suozhang Here
 <a href = "mailto: suozhang1998@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a> 
-<a href = "https://a-suozhang.xyz"><img src="https://img.shields.io/static/v1?label=Lab&message=NICS-EFC&color=blueviolet"></a> 
+<a href = "http://nicsefc.ee.tsinghua.edu.cn/people/TianchenZhao"><img src="https://img.shields.io/static/v1?label=Lab&message=NICS-EFC&color=blueviolet"></a> 
 <a href = "https://a-suozhang.xyz"><img src="https://img.shields.io/badge/-Blog-green?style=plastic&logo=blog" target="_blank"></a> 
 
 
